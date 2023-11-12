@@ -1,0 +1,15 @@
+{
+    "short_name": "NauvalUTS",
+    "name": "NauvalUTS",
+    "description": "Deskripsi Aplikasi",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0077b5",
+    "icons": [
+        {
+            "src": "app.png",
+            "sizes": "192x192"
+        }
+    ]
+}
